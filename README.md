@@ -1,19 +1,21 @@
-Mathematical-Modelling-Journey/
+# Mathematical Modelling Journey
 
-│── README.md
+Welcome to my research portfolio.
 
-│── 01_Python/
+I hold a First Class B.Sc. in Mathematics from the University of Ilorin and an MSc in Data Science and Business Analytics from the University of Plymouth.
 
-│── 02_Mathematics/
+This repository documents my journey towards becoming a researcher in Infectious Disease Mathematical Modelling.
 
-│── 03_Research_Papers/
+## Research Interests
 
-│── 04_Projects/
+- Mathematical Biology
+- Infectious Disease Modelling
+- Dynamical Systems
+- Data-driven Mathematical Modelling
+- Statistical Inference
+- Machine Learning for Epidemiology
 
-│      └── Project_01_SIR_Model/
+## Current Project
 
-│── 05_Notes/
-
-│── 06_Data/
-
-│── 07_Figures/
+Project 01:
+SIR Model for Infectious Disease Transmission
